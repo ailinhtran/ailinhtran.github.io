@@ -419,12 +419,12 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 56px;
   font-weight: 700;
   line-height: 64px;
-  color: #fff;
+  color: #fcc10c; 
   font-family: "Poppins", sans-serif;
 }
 
 #hero h1 span {
-  color: #fcc10c;
+  color: #fff;
 }
 
 #hero h2 {
