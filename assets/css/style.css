@@ -143,11 +143,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #fcc10c; /* flipping white to yellow (#fff to #fcc10c) */
+  color: #fff; 
 }
 
 #header .logo a span {
-  color: #fff; /* flipping yellow to white (#fcc10c to #fff) */
+  color: #fcc10c; 
 }
 
 #header .logo img {
@@ -419,12 +419,12 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 56px;
   font-weight: 700;
   line-height: 64px;
-  color: #fcc10c; 
+  color: #fff; 
   font-family: "Poppins", sans-serif;
 }
 
 #hero h1 span {
-  color: #fff;
+  color: #fcc10c;
 }
 
 #hero h2 {
