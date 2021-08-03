@@ -143,11 +143,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #fff;
+  color: #fcc10c; /* flipping white to yellow (#fff to #fcc10c) */
 }
 
 #header .logo a span {
-  color: #fcc10c;
+  color: #fff; /* flipping yellow to white (#fcc10c to #fff) */
 }
 
 #header .logo img {
